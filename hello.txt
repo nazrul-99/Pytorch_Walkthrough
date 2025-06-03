@@ -1,1 +1,2 @@
-This file is to check git push
+This file is to check git push.
+June third I am still reading the book.
