@@ -1,0 +1,16 @@
+This file contains the daily update of my pytorch journey.
+
+I have Decided to use the book "Dive into Deep Learning"
+
+Day 1: 
+Finished setting the git to the project folder and connected it with the github for daily update.
+
+Day 2: 
+I have created necessary environemnt in the pc to run the code in this book according to the installation guide provided in the book. 
+And get myself familiar with the different notation used in this book. 
+
+Day 3: 
+Finished half of the first chapter. 
+
+Day 4: 
+I have finished the first chapter.
